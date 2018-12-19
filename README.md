@@ -1,3 +1,5 @@
 # DroneGO
 
-This was a project for one of my courses 
+## Introduction
+
+This was the final project for one of my courses. The project uses another project cvdrone as a base for communicating with Parrot AR Drone 2.0.
