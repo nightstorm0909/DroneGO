@@ -19,14 +19,15 @@ The main aim of the project was to make the drone guard an object. The drone has
 ## Requirements
 
 Python modules used: fbchat, pygame
+
 OS used: Ubuntu 16.04
 
 ## Usage:
 
-To build the code, go to DroneGO/build/unix and use the makefile file to
+* To build the code, go to DroneGO/build/unix and use the makefile file to
 build the system.
 
-In order to connect to the internet during the flight, you need to 
+* In order to connect to the internet during the flight, you need to 
 conect the laptop to different wifi hotspots: one created by the 
 drone for communication and the other hotpsot which is connected to 
 the internet.
@@ -34,3 +35,12 @@ the internet.
 For reference, check the picture:
 
 ![networking](https://github.com/nightstorm0909/DroneGO/blob/master/images/networking.png)
+
+* To control the laptop speaker, copy the 'sound.py' from DroneGO/build/unix
+to all the laptops connected to the wifi hotspot connected to the internet.
+Make sure that you run the file in each of those laptops prior to 
+runnig the drone as it will put all the laptops in listen mode.
+
+* Also, edit the 'fbChat.py' and update the username and password of the facebook
+profile used by the drone. This facebook profile is needed in order to communicate with the
+owner.
