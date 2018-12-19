@@ -26,4 +26,11 @@ OS used: Ubuntu 16.04
 To build the code, go to DroneGO/build/unix and use the makefile file to
 build the system.
 
-In order to connect to the internet 
+In order to connect to the internet during the flight, you need to 
+conect the laptop to different wifi hotspots: one created by the 
+drone for communication and the other hotpsot which is connected to 
+the internet.
+
+For reference, check the picture:
+
+[networking](https://github.com/nightstorm0909/DroneGO/blob/master/images/networking.png)
