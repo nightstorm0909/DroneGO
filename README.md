@@ -33,4 +33,4 @@ the internet.
 
 For reference, check the picture:
 
-[networking](https://github.com/nightstorm0909/DroneGO/blob/master/images/networking.png)
+![networking](https://github.com/nightstorm0909/DroneGO/blob/master/images/networking.png)
