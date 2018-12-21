@@ -47,3 +47,9 @@ runnig the drone as it will put all the laptops in listen mode.
 * Also, edit the 'fbChat.py' and update the username and password of the facebook
 profile used by the drone. This facebook profile is needed in order to communicate with the
 owner.
+
+## Architecture
+
+The picture below shows the architecture of the whole code.
+
+![architecture](https://github.com/nightstorm0909/DroneGO/blob/master/images/architecture.PNG)
