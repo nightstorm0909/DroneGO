@@ -53,3 +53,7 @@ owner.
 The picture below shows the architecture of the whole code.
 
 ![architecture](https://github.com/nightstorm0909/DroneGO/blob/master/images/architecture.PNG)
+
+## Demo Video
+
+[![video thumbnail](https://github.com/nightstorm0909/DroneGO/blob/master/images/Selection_008.png)](https://www.youtube.com/watch?v=U6JbHcEAGyM)
